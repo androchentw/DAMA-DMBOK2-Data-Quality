@@ -2,18 +2,19 @@
 DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the DAMA Guide to the Data Management Body of Knowledge, focued on the dimension of data quality.
 
 
-# Data Quality Dimesions
+# DQD - Data Quality Dimesions
 
 ## A. [DMBoK2] Table 29, page 462 ~ 464.
 
-1. Accuracy
-2. Completeness
-3. Consistency
-4. Integrity
-5. Reasonability
-6. Timeliness
-7. Uniqueness
-8. Validity
+1. Accuracy 準確性
+2. Completeness 完備性
+3. Consistency 一致性
+4. Integrity 完整性
+5. Reasonability 合理性
+6. Timeliness 時效性
+7. Uniqueness 獨特性
+8. Validity 有效性
+
 
 ## B. [CloverDX] 6 Data Quality Metrics
 
