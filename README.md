@@ -11,7 +11,7 @@ DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the
 3. Consistency 一致性
 4. Integrity 完整性
 5. Reasonability 合理性
-6. Timeliness 時效性
+6. Timeliness 即時性
 7. Uniqueness 獨特性
 8. Validity 有效性
 
@@ -38,7 +38,7 @@ DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the
     * Validity is a measure of how well data conforms to required value attributes
     * For example, ensuring dates conform to the same format, i.e., date/month/year or month/date/year.
 
-5. Timeliness 時效性
+5. Timeliness 即時性
     * data 是否即時?
     * Timeliness reflects the accuracy of data at a specific point in time. 
     * An example of this is when a customer moves to a new house, how timely are they in informing their bank of their new address?
