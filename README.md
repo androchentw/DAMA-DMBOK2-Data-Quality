@@ -1,10 +1,10 @@
 # DAMA-DMBOK2-Data-Quality-Dimesion
+
 DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the DAMA Guide to the Data Management Body of Knowledge, focued on the dimension of data quality.
 
+## DQD - Data Quality Dimesions
 
-# DQD - Data Quality Dimesions
-
-## A. [DMBoK2] Table 29, page 462 ~ 464.
+## A. [DMBoK2] Table 29, page 462 ~ 464
 
 1. Accuracy 準確性
 2. Completeness 完備性
@@ -15,7 +15,6 @@ DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the
 7. Uniqueness 獨特性
 8. Validity 有效性
 
-
 ## B. [CloverDX] 6 Data Quality Metrics
 
 1. Completeness 完備性
@@ -25,7 +24,7 @@ DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the
 
 2. Accuracy 準確性
     * 與現實相比, 資料與模型是否準確表達/反映真實狀況?
-    * How accurately does your data reflect the real-world object? 
+    * How accurately does your data reflect the real-world object?
     * An example metric for accuracy is finding the percentage of values that are correct compared to the actual value.
 
 3. Consistency 一致性
@@ -40,21 +39,30 @@ DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the
 
 5. Timeliness 即時性
     * data 是否即時?
-    * Timeliness reflects the accuracy of data at a specific point in time. 
+    * Timeliness reflects the accuracy of data at a specific point in time.
     * An example of this is when a customer moves to a new house, how timely are they in informing their bank of their new address?
 
 6. Integrity 完整性
     * data 在不同系統之間是否保持相同且完整? 如: 跨多個系統的相同數據的百分比
-    * To ensure data integrity, it’s important to maintain all the data quality metrics we’ve mentioned above as your data moves between different systems. Typically, data stored in multiple systems breaks data integrity.
+    * To ensure data integrity, it's important to maintain all the data quality metrics we've mentioned above as your data moves between different systems. Typically, data stored in multiple systems breaks data integrity.
     * An example metric for integrity is the percent of data that is the same across multiple systems.
 
+## Ref
 
-# Ref
 * [DAMA DMBoK2 - Body of Knowledge (edition 2)](https://www.dama.org/cpages/body-of-knowledge)
 * [6 Data Quality Metrics You Can't Afford To Ignore](https://www.cloverdx.com/blog/6-data-quality-metrics-you-cant-ignore)
 * [深度解读数据管理葵花宝典-《DAMA-DMBOK2数据管理知识体系指南（第2版）》](https://blog.csdn.net/fuyipingwml1976124/article/details/106233428)
 
-
 <!-- Links -->
 [DMBoK2]: https://www.dama.org/cpages/body-of-knowledge
 [CloverDX]: https://www.cloverdx.com/blog/6-data-quality-metrics-you-cant-ignore
+
+## Contribute
+
+* [LICENSE](LICENSE)
+* [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+* [CONTRIBUTING](CONTRIBUTING.md)
+
+<a href="https://github.com/an/python-playground/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=androchentw/python-playground" />
+</a>
