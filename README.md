@@ -1,8 +1,6 @@
-# DAMA-DMBOK2-Data-Quality-Dimesion
+# DAMA-DMBOK2-Data-Quality
 
-DAMA-DMBOK2-Data-Quality-Dimesion is a quick reference and implementation of the DAMA Guide to the Data Management Body of Knowledge, focued on the dimension of data quality.
-
-## DQD - Data Quality Dimesions
+DAMA-DMBOK2-Data-Quality is a quick reference and implementation of the DAMA Guide to the Data Management Body of Knowledge, focued on the dimension of data quality.
 
 ## A. [DMBoK2] Table 29, page 462 ~ 464
 
